@@ -1,2 +1,2 @@
 # git-education1
-git 수업자료 - sk_shieldus0711
+2023-07-11: sk_shieldus git 특강 - git 수업자료
